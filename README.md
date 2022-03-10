@@ -1,7 +1,12 @@
+<p>......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
+<img  src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="1000" height="300">
+
+
 <h1 align="center">Hi Dev👋, I'm Medha</h1>
 <h3 align="center">CSE Undergrad at Model Engineering College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3kvt&label=Profile%20views&color=0e75b6&style=flat" alt="m3kvt" /> </p>
+<img align='right' src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300" height="200">
 
 - 👨‍💻 Coding enthusiast
 
@@ -21,9 +26,13 @@
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3kvt&show_icons=true&locale=en&layout=compact" alt="m3kvt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3kvt&" alt="m3kvt" /></p>
+
+
+<p>......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
 
 
 <!---
