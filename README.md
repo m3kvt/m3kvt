@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/medha-k-275a7122b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medha-k-275a7122b" height="30" width="40" /></a>
 <a href="https://instagram.com/_.m_e_d_h_a._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.m_e_d_h_a._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/m3kvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m3kvt" height="30" width="40" /></a>
-<a href="https://www.medhakvinod@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="m3kvt" height="20" width="40" /></a>
+
   
 </p>
 
