@@ -10,7 +10,7 @@
 
 - 👨‍💻 Coding enthusiast
 
-- 🌱 Exploring different fields
+- 🌱 Exploring different technologies
 
 - ⚡ Fun fact :) **I think I'm funny**
 
