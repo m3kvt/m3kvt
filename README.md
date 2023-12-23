@@ -7,7 +7,7 @@
 <h1 align="center">Hi Dev <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Medha</h1>
 <h3 align="center">CSE Undergrad at Model Engineering College</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m3kvt&label=Profile%20views&color=0e75b6&style=flat" alt="m3kvt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=m3kvt&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 <div align="left">
   
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"  />
@@ -36,9 +36,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=m3kvt&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
-<!---
+
 [![](https://visitcount.itsvg.in/api?id=m3kvt&icon=0&color=8)](https://visitcount.itsvg.in)
---->
+
 
 
 
